@@ -83,10 +83,10 @@ I'm continuously working on improving my AI/ML skills through practical projects
   <a href="https://github.com/aryansharma2004">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add your LinkedIn and email links here -->
+  <!-- www.linkedin.com/in/aryan-sharma-44858b229 -->
 </p>
 
-💼 **Open to AI/ML Internship Opportunities and Collaborations!**
+💼 **Open to AI/ML Opportunities and Collaborations!**
 
 ---
 
